@@ -1,0 +1,240 @@
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+D:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+D:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+D:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+D:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+D:\Abhishek odela\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+C:\Users\Dell\Downloads\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+E:\C# API codes\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+E:\C# API codes\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+E:\C# API codes\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+E:\C# API codes\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+E:\C# API codes\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+D:\Latest Projects\API\RetailzAPI\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+C:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.dll
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RestSharp.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Buffers.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Memory.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb

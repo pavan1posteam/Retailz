@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bottlecapps\\API\\RetailzAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|c:\\bottlecapps\\api\\retailzapi\\retailzapi\\retailz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|solutionrelative:retailzapi\\retailz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|C:\\Bottlecapps\\API\\RetailzAPI\\retailzapi\\models\\possettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|solutionrelative:retailzapi\\models\\possettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|C:\\Bottlecapps\\API\\RetailzAPI\\retailzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|solutionrelative:retailzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|C:\\Bottlecapps\\API\\RetailzAPI\\retailzapi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8572BC42-8E29-499F-8BB7-04B275718145}|RetailzAPI\\RetailzAPI.csproj|solutionrelative:retailzapi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "POSsettings.cs",
+              "DocumentMoniker": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Models\\POSsettings.cs",
+              "RelativeDocumentMoniker": "RetailzAPI\\Models\\POSsettings.cs",
+              "ToolTip": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Models\\POSsettings.cs",
+              "RelativeToolTip": "RetailzAPI\\Models\\POSsettings.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:54:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\App.config",
+              "RelativeDocumentMoniker": "RetailzAPI\\App.config",
+              "ToolTip": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\App.config",
+              "RelativeToolTip": "RetailzAPI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-06T06:35:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RetailzAPI\\Program.cs",
+              "ToolTip": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Program.cs",
+              "RelativeToolTip": "RetailzAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:34:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retailz.cs",
+              "DocumentMoniker": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Retailz.cs",
+              "RelativeDocumentMoniker": "RetailzAPI\\Retailz.cs",
+              "ToolTip": "C:\\Bottlecapps\\API\\RetailzAPI\\RetailzAPI\\Retailz.cs",
+              "RelativeToolTip": "RetailzAPI\\Retailz.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:08:19.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
