@@ -19,13 +19,17 @@ namespace RetailzAPI
                 pOSSettings.IntializeStoreSettings();
                 foreach (POSSetting current in pOSSettings.PosDetails)
                 {
-                    try                                              
+                    try
                     {
-                        
-                        if (current.PosName.ToUpper() == "RETAILZPOS"  && current.StoreSettings.StoreId==12463  ) 
+
+                        if (current.PosName.ToUpper() == "RETAILZPOS")
                         {
-                           Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId );
-                           Retailz retailz = new Retailz(current.StoreSettings.StoreId, current.StoreSettings.POSSettings.tax, current.StoreSettings.POSSettings.BaseUrl, current.StoreSettings.POSSettings.AuthKey, current.StoreSettings.POSSettings.Token);  
+                            if (current.StoreSettings.StoreId == 12785)
+                            {
+                                Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId);
+                                Retailz retailz = new Retailz(current.StoreSettings.StoreId, current.StoreSettings.POSSettings.tax, current.StoreSettings.POSSettings.BaseUrl, current.StoreSettings.POSSettings.AuthKey, current.StoreSettings.POSSettings.Token);
+                            }
+
                         }
                     }
                     catch (Exception ex)

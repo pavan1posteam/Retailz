@@ -208,6 +208,7 @@ E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
 E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
 E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
 E:\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe.config
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.exe
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\RetailzAPI.pdb
@@ -233,8 +234,6 @@ D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Encodings.Web.xml
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Text.Json.xml
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
-D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache
-D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CoreCompileInputs.cache
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
