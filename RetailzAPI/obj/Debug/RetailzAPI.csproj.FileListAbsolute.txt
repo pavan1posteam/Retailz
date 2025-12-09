@@ -237,3 +237,4 @@ D:\Bottlecapps\API\RetailzAPI\RetailzAPI\bin\Debug\System.ValueTuple.xml
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.CopyComplete
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.exe
 D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.pdb
+D:\Bottlecapps\API\RetailzAPI\RetailzAPI\obj\Debug\RetailzAPI.csproj.AssemblyReference.cache

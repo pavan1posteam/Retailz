@@ -21,14 +21,17 @@ namespace RetailzAPI
                 {
                     try
                     {
-
+                        /*if (current.StoreSettings.StoreId == 12757)
+                        { 
+                            Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId);
+                        }
+                        else { continue; } */
                         if (current.PosName.ToUpper() == "RETAILZPOS")
                         {
-                            if (current.StoreSettings.StoreId == 12785)
-                            {
-                                Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId);
+                            
+                                
                                 Retailz retailz = new Retailz(current.StoreSettings.StoreId, current.StoreSettings.POSSettings.tax, current.StoreSettings.POSSettings.BaseUrl, current.StoreSettings.POSSettings.AuthKey, current.StoreSettings.POSSettings.Token);
-                            }
+                            
 
                         }
                     }
