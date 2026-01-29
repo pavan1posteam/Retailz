@@ -143,6 +143,44 @@ namespace RetailzAPI
                         pdf.altupc3 = "";
                         pdf.altupc2 = "";
                         pdf.altupc1 = "";
+                        #region new include for altupcs
+                        
+                        var allUpcToken = itm["allUpc"];
+
+                        if (allUpcToken != null && allUpcToken.Type == JTokenType.Array)
+                        {
+                            var allUpcs = allUpcToken
+                                            .Select(x => x.ToString())
+                                            .Distinct()
+                                            .ToList();
+
+                            
+                            for (int i = 1; i < allUpcs.Count && i <= 5; i++)
+                            {
+                                string altUpcValue = "#" + allUpcs[i];
+
+                                switch (i)
+                                {
+                                    case 1:
+                                        pdf.altupc1 = altUpcValue;
+                                        break;
+                                    case 2:
+                                        pdf.altupc2 = altUpcValue;
+                                        break;
+                                    case 3:
+                                        pdf.altupc3 = altUpcValue;
+                                        break;
+                                    case 4:
+                                        pdf.altupc4 = altUpcValue;
+                                        break;
+                                    case 5:
+                                        pdf.altupc5 = altUpcValue;
+                                        break;
+                                }
+                            }
+                        }
+
+                        #endregion
                         fnf.region = "";
                         fnf.pcat2 = "";
                         fnf.region = "";

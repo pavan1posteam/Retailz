@@ -21,11 +21,11 @@ namespace RetailzAPI
                 {
                     try
                     {
-                        /*if (current.StoreSettings.StoreId == 12757)
-                        { 
-                            Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId);
-                        }
-                        else { continue; } */
+                        //if (current.StoreSettings.StoreId == 12247)
+                        //{
+                        //    Console.WriteLine("Fetching the storeid " + current.StoreSettings.StoreId);
+                        //}
+                        //else { continue; }
                         if (current.PosName.ToUpper() == "RETAILZPOS")
                         {
                             
