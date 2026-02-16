@@ -34,7 +34,7 @@ namespace RetailzAPI
 
                 var client1 = new RestClient(baseurl + "/Item/?page=1&Size=500");
                 var request1 = new RestRequest(Method.GET);
-
+                //Console.WriteLine(client1.BuildUri(request1));
                 request1.AddHeader("AuthKey", authkey);
                 request1.AddHeader("Token", token);
 
